@@ -1,0 +1,4 @@
+#Fri Nov 25 13:59:37 IST 2022
+base.0=/home/niveus/StudioProjects/flutter_stack/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
